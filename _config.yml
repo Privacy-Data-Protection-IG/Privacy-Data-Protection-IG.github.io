@@ -81,8 +81,8 @@ analytics:
 # Site Author1
 author:
   name             : "Ahmad Omar & Afshin Amighi"
-  #avatar           : "profile.png"
-  bio              : ""
+  avatar           : "profile.png"
+  #bio              : ""
   location         : "Rotterdam, Netherlands"
   employer         : "RUAS"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
