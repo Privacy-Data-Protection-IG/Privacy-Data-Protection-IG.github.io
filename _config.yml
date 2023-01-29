@@ -349,3 +349,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+# Adding pagination for Jekyll::Paginate V2 (Ahmad)
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
