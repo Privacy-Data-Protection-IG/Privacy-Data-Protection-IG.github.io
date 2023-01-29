@@ -80,7 +80,9 @@ analytics:
 
 # Site Author1
 author:
-  name             : "Ahmad Omar, Afshin Amighi"
+  name             : "Ahmad Omar"
+  avatar           : "profile.png"
+  name             : "Afshin Amighi"
   avatar           : "profile.png"
   bio              : ""
   location         : "Rotterdam, Netherlands"
