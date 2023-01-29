@@ -79,12 +79,12 @@ analytics:
 
 
 # Site Author1
-author:
+author1:
   name             : "Ahmad Omar"
   avatar           : "profile.png"
   bio              : ""
   location         : "Rotterdam, Netherlands"
-  employer         : "Rotterdam University of Applied Sciences (RUAS)"
+  employer         : "Rotterdam University of Applied Sciences(RUAS)"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -117,12 +117,12 @@ author:
 #  wikipedia        :
 
 # Site Author2
-author:
+author2:
   name             : "Afshin Amighi"
   avatar           : "profile.png"
   bio              : ""
   location         : "Rotterdam, Netherlands"
-  employer         : "Rotterdam University of Applied Sciences (RUAS)"
+  employer         : "Rotterdam University of Applied Sciences(RUAS)"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
