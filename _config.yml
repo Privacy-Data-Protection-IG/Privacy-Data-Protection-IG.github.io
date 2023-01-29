@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Privacy and Data Protection (IG)"
 title_separator          : "-"
 name                     : &name "Ahmad Omar, Afshin Amighi"
-description              : &description "A resource for data protection concepts, techniques, and tools to improve users' privacy"
+description              : &description "A resource for data protection concepts, techniques, and tools to comply with security and privacy laws"
 url                      : https://privacy-data-protection-ig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Privacy-Data-Protection-IG.github.io"
@@ -78,7 +78,7 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author1
 author:
   name             : "Ahmad Omar"
   avatar           : "profile.png"
@@ -116,7 +116,7 @@ author:
 #  youtube          :
 #  wikipedia        :
 
-# Site Author
+# Site Author2
 author:
   name             : "Afshin Amighi"
   avatar           : "profile.png"
