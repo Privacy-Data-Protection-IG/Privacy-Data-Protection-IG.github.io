@@ -303,6 +303,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+# - other plugins
+  - jekyll-auto-authors
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
