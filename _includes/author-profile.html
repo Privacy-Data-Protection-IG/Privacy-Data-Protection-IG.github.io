@@ -4,9 +4,9 @@
 {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<ul>
-  {% for author in site.data.authors %}
-  <div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="http://schema.org/Person">
+  <ul>
+    {% for author in site.data.authors %}
     <li>
       <div class="author__avatar">
         {% if author.avatar contains "://" %}
@@ -151,5 +151,5 @@
       </div>
     </li>
     {% endfor %}
-  </div>
-</ul>
+  </ul>
+</div>
