@@ -5,9 +5,9 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-  <ul>
-    {% for author in site.data.authors %}
-    <li>
+  <!-- <ul> -->
+    <!-- {% for author in site.data.authors %} -->
+    <!-- <li> -->
       <div class="author__avatar">
         {% if author.avatar contains "://" %}
         <img src="{{ author.avatar }}" alt="{{ author.name }}">
@@ -149,7 +149,7 @@
           {% endif %}
         </ul>
       </div>
-    </li>
-    {% endfor %}
-  </ul>
+    <!-- </li> -->
+    <!-- {% endfor %} -->
+  <!-- </ul> -->
 </div>
