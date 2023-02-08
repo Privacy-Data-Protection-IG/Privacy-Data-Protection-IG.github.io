@@ -1,18 +1,28 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Ahmad Omar:
+  name        : "Ahmad Omar"
+  # email       : "a.omar@hr.nl"
+  # bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  employer    : "RUAS"
+  location    : "Rotterdam, Netherlands"
+  github      : "https://github.com/a-omar"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Afshin Amighi:
+  name        : "Afshin Amighi"
+  # email       : "a.amighi@hr.nl"
+  # bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  employer    : "RUAS"
+  location    : "Rotterdam, Netherlands"
+  github      : "https://github.com/afshinamighi"
+
+Mortaza Shoae Bargh:
+  name        : "Mortaza Shoae Bargh"
+  # email       : "m.shoae.bargh@hr.nl"
+  # bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  employer    : "RUAS"
+  location    : "Rotterdam, Netherlands"
+  github      : "https://github.com/a-omar"
